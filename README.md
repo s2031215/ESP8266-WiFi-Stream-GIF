@@ -20,6 +20,7 @@ Stream Server I use JAVA to create the Socket to stream the image data.<br>
     
 <h3>Software:</h3>
 <ul>
+   <li>Arduino IDE</li>
    <li>(Arduino library)ESP8266 Arduino Core </li>
    <li>(Arduino library)Adafruit GFX Library </li>
    <li>Java JDK </li>
