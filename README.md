@@ -2,8 +2,8 @@
 This project is Stream the large number image data to ESP8266 and display it like a GIF.<br>
 Stream Server I use JAVA to create the Socket to stream the image data.<br>
 
-#What you need<br>
-Hardware:<br>
+# What you need<br>
+<h3>Hardware:</h3>
 *A board containg an ESP8266 chip<br>
 *SSD1306 based 128x64 pixel OLED display<br>
 
@@ -16,7 +16,7 @@ Hardware:<br>
     SDA    D4/D14
     =====  =======================
     
-Software:<br>
+<h3>Software:</h3>>
 *(Arduino library)ESP8266 Arduino Core<br>
 *(Arduino library)Adafruit GFX Library<br>
 Java JDK<br>
