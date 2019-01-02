@@ -4,9 +4,9 @@ Stream Server I use JAVA to create the Socket to stream the image data.<br>
 
 # What you need<br>
 <h3>Hardware:</h3>
-*A board containg an ESP8266 chip<br>
-*SSD1306 based 128x64 pixel OLED display<br>
-
+* A board containg an ESP8266 chip<br>
+* SSD1306 based 128x64 pixel OLED display<br>
+<br>
 **SSD1306:(For Wemos D1 ESP8266)**
 
     =====  =======================
@@ -17,10 +17,10 @@ Stream Server I use JAVA to create the Socket to stream the image data.<br>
     =====  =======================
     
 <h3>Software:</h3>
-*(Arduino library)ESP8266 Arduino Core<br>
-*(Arduino library)Adafruit GFX Library<br>
-Java JDK<br>
-
+* (Arduino library)ESP8266 Arduino Core<br>
+* (Arduino library)Adafruit GFX Library<br>
+* Java JDK<br>
+<br>
 **Arduino Code Config:**
 
     =====      =======================
