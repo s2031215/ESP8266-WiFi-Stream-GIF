@@ -26,10 +26,8 @@ Stream Server I use JAVA to create the Socket to stream the image data.<br>
 </ul>
 
 <br>
-**Arduino Code Config:**
+**Arduino Var Config:**
 
-    =====      =======================
-    Var        GPIO
     =====      =======================
     ssid       WiFi ssid
     password   WiFi password 
