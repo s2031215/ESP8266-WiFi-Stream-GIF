@@ -35,4 +35,7 @@ Stream Server I use JAVA to create the Socket to stream the image data.<br>
     port       StreamServer port(default:5045)
     framedelay image player speed(default:40ms)
     =====      =======================
+<br>
+For the image part, you need to use (image2cpp)[https://javl.github.io/image2cpp/] translate the image to plain bytes, copy the code to bytefile.txt.
 
+Last, Use Java compiler the main file StreamServer.java and run, Upload the Arduino code the ESP8266 and test it!
