@@ -37,6 +37,6 @@ Stream Server I use JAVA to create the Socket to stream the image data.<br>
     framedelay image player speed(default:40ms)
     =====      =======================
 <br>
-For the image part, bytefile.txt already have the "Bad Apple" video for the test, you can to use [image2cpp](https://javl.github.io/image2cpp/) translate the image you want to plain bytes, replace the code in bytefile.txt.
-<p>
+For the image part, bytefile.txt already have the "Bad Apple" video for the test , you can to use [image2cpp](https://javl.github.io/image2cpp/) translate the image you want to plain bytes, replace the code in bytefile.txt.
+<br>
 Last, Use Java compiler the main file StreamServer.java and run, Upload the Arduino code the ESP8266 and test it!
