@@ -16,7 +16,7 @@ Stream Server I use JAVA to create the Socket to stream the image data.<br>
     SDA    D4/D14
     =====  =======================
     
-<h3>Software:</h3>>
+<h3>Software:</h3>
 *(Arduino library)ESP8266 Arduino Core<br>
 *(Arduino library)Adafruit GFX Library<br>
 Java JDK<br>
